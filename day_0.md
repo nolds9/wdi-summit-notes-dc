@@ -1,4 +1,4 @@
-# Day 0
+# 0. Day 0
 
 Had a great time in Atlanta networking and making friends from other campuses.
 
