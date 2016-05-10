@@ -11,7 +11,7 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
 - whys poignant guide to ruby
 - Metaphors!
 
-> What is your go-to variable for an array?
+**Q.** What is your go-to variable for an array?
 > Rafa from NY suggested a closet
 
 
