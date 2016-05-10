@@ -13,16 +13,12 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
 
 **Think**:
 - What is your go-to variable for an array?
-> Rafa from NY suggested a closet
+> a closet
 - How do you explain function parameters?
  > woodchipper, placeholders, quiznos toaster
 - How do you describe HTTP?
 > Game of Battleship
 
-
-<details>
-    <summary></summary>Game of Battleship
-</details>
 
 <details>
     <summary>Node.js? The DOM? variable scope...?</summary>
