@@ -11,13 +11,19 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
 - whys poignant guide to ruby
 - Metaphors!
 
-<details><summary>What is your go-to variable for an array?</summary>Rafa from NY suggested a closet</details>
+> What is your go-to variable for an array?
+> Rafa from NY suggested a closet
+
+
 <details>
     <summary>How do you explain function parameters?</summary>woodchipper, placeholders
+    
 </details>
+
 <details>
     <summary>How do you describe HTTP?</summary>Game of Battleship
 </details>
+
 <details>
     <summary>Node.js? The DOM? variable scope...?</summary>
     Go to the summit next year!
