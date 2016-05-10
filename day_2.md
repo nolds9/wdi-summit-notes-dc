@@ -1,7 +1,7 @@
 # Day 2
 
-<details>
 <summary>Day 02 - Tuesday</summary>
+
 Day 02 and 03 gave instructors a chance to share best practices.
 
 <img src="images/guys-with-long-hair.jpg" alt="Guys with long hair" />
