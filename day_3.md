@@ -30,7 +30,7 @@ Jess had a follow-up session in response to her session the previous day.
 Meredith Byers and Chelsea Byers co-led a wrap up activity, "Rose, Thorn & Bud"
 
 **Rose**
-![Rose](https://github.com/nolds9/summit-book/blob/master/images/roses.jpg)
+![Rose](https://raw.githubusercontent.com/nolds9/summit-book/master/images/roses.jpg)
 
 
 **Bud**
