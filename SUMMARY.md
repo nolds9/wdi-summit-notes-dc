@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Day 1
+* [Day 1](day_1.md)
 
