@@ -10,4 +10,4 @@ Most of the well-established and successful campuses teach Javascript first, and
  
  ![Some of Us in Atlanta](./wdi-summit/images/some-of-us.jpg)
 
-<img src="images/some-of-us.jpg" alt="Some of us in GA Atlanta" />
+<img src="/wdi-summit/images/some-of-us.jpg" alt="Some of us in GA Atlanta" />
