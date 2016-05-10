@@ -10,4 +10,6 @@ Most of the well-established and successful campuses teach Javascript first, and
 <img src="https://raw.githubusercontent.com/nolds9/summit-book/master/images/some-of-us.jpg" alt="Some of us in GA Atlanta" />
 
 ### Metro Share-Out
+
+Here's a brief overview of the scope and sequence of other markets:
 [METRO Share-Out Notes](./wdi-summit/metro-share-out.md)
