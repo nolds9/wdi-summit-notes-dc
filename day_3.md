@@ -39,4 +39,5 @@ Meredith Byers and Chelsea Byers co-led a wrap up activity, "Rose, Thorn & Bud"
 ![bud](https://raw.githubusercontent.com/nolds9/summit-book/master/images/buds.jpg)
 
 
+
 **Action Items**
