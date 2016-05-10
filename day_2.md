@@ -18,6 +18,10 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
  > woodchipper, placeholders, quiznos toaster
 - How do you describe HTTP?
 > Game of Battleship
+- Node.js, the DOM?
+> Help us at the next summit!
+
+# Lightnening Talks
 
 ## Seattle, Austin
 Brian Hague and Sean Shannon spoke about ES6 aka ES2015. There was no resolution but it seemed that most people think it's a good idea to introduce as a special topic in support of something like React.js. Special tooling may be necessary due to lack of cross-browser support. React is going to have some transpiling anyway so why not do ES6? Suggested build tools:  Babel, webpack, Gulp
