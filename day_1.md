@@ -1,7 +1,6 @@
 # Day 1
 
 
-
 On Monday representatives from each instructional team presented an overview of how they present the curriculum in their market. It was a pleasant surprise to see the curriculum moving towards more common goals but still each campus has their own approach and their own personality.
 
 Most of the well-established and successful campuses teach Javascript first, and are mostly following the relative same sequence as the outline from Baseline.
@@ -11,4 +10,4 @@ Most of the well-established and successful campuses teach Javascript first, and
 <img src="https://raw.githubusercontent.com/nolds9/summit-book/master/images/some-of-us.jpg" alt="Some of us in GA Atlanta" />
 
 ### Metro Share-Out
-[METRO Share-Out Notes](metro-share-out.md
+[METRO Share-Out Notes](metro-share-out.md)
