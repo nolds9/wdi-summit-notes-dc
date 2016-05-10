@@ -13,3 +13,11 @@ Most of the well-established and successful campuses teach Javascript first, and
 
 Here's a brief overview of the scope and sequence of other markets:
 [METRO Share-Out Notes](./wdi-summit/metro-share-out.md)
+
+**Hightlights** include:
+- Half-day Wednesdays
+- Removing Auth from several projects
+- RepoTagger
+- GArnet / GAlaxy student-tracker
+- "Teach the class, not the curriculum"
+- "The power of language"
