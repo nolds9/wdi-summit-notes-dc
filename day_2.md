@@ -54,4 +54,6 @@ Jessica Skeete - WDI Vision for the Future
 - Other campuses ARE failing students as late as week 6! Global average is 9% failure rate
 - We did a SWOT analysis, which was also awesome.
 
+
+
 ![wdi-future](https://raw.githubusercontent.com/nolds9/summit-book/master/images/wdi_future-1.png)
