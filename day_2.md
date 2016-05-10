@@ -53,3 +53,5 @@ Jeanny spoke to us about Instructor collaborations with Instructional Design.
 Jessica Skeete - WDI Vision for the Future
 - Other campuses ARE failing students as late as week 6! Global average is 9% failure rate
 - We did a SWOT analysis, which was also awesome.
+
+![wdi-future](./wdi-summit/images/wdi_future1.png)
