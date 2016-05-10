@@ -5,6 +5,7 @@ Day 02 and 03 gave instructors a chance to share best practices.
 
 ## Santa Monica
 Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics included:
+
 - relating concepts to the real world
 - writing questions on the wall
 - whys poignant guide to ruby
