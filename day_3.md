@@ -28,4 +28,10 @@ Jess had a follow-up session in response to her session the previous day.
 
 ### LA, Seattle
 Meredith Byers and Chelsea Byers co-led a wrap up activity, "Rose, Thorn & Bud"
-![bud](./wdi-summit/images/
+
+**Rose**
+![Rose](https://github.com/nolds9/summit-book/blob/master/images/roses.jpg)
+
+
+**Bud**
+![bud](https://raw.githubusercontent.com/nolds9/summit-book/master/images/buds.jpg)
