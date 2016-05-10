@@ -5,7 +5,7 @@ Day 02 and 03 gave instructors a chance to share best practices
 
 <img src="https://raw.githubusercontent.com/nolds9/summit-book/master/images/some-of-us.jpg" alt="Some of us in GA Atlanta" />
 
-# Presentation
+# Presentations
 ## Santa Monica
 Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics included:
 
