@@ -1,4 +1,4 @@
-# wdi-summit-notes-dc
+# WDI Summit Notes
 Notes and Takeaways from General Assembly's WDI instructor summit, Atlanta, April 24-27, 2016
 
 
