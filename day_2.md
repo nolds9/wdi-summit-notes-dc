@@ -22,7 +22,6 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
 
 <details>
     <summary>How do you describe HTTP?</summary>Game of Battleship
-    fasdf
 </details>
 
 <details>
