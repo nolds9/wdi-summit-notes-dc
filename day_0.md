@@ -1,4 +1,4 @@
-# 0. Mission
+# Mission
 
 Had a great time in Atlanta networking and making friends from other campuses.
 
