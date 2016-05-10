@@ -9,3 +9,6 @@ Most of the well-established and successful campuses teach Javascript first, and
 **People are coming to a lot of the same conclusions in terms of curriculum.**
 
 <img src="/wdi-summit/images/some-of-us.jpg" alt="Some of us in GA Atlanta" />
+
+### Metro Share-Out
+[METRO Share-Out Notes](metro-share-out.md)
