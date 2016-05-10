@@ -1,4 +1,5 @@
-# Day 3 - Wednesday
+# Every Rose Has its Bud
+## Day 3 - Wednesday
 
 Wednesday was short and sweet.
 
