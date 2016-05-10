@@ -14,3 +14,8 @@ As a group, we identify some broad pain points shared by all markets:
 - Fundamentals 3.0
 - Studies and Diagnostics
 - Github at GA
+
+## Let's Draw It Out
+
+
+![Benn Diagram](https://benhulan.gitbooks.io/wdi-consultant-summit-2016/content/images/benn-diagram.png)
