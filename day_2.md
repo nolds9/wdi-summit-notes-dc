@@ -11,17 +11,17 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
 - whys poignant guide to ruby
 - Metaphors!
 
-**Q.** What is your go-to variable for an array?
+**Think**:
+- What is your go-to variable for an array?
 > Rafa from NY suggested a closet
+- How do you explain function parameters?
+ > woodchipper, placeholders, quiznos toaster
+- How do you describe HTTP?
+> Game of Battleship
 
 
 <details>
-    <summary>How do you explain function parameters?</summary>woodchipper, placeholders
-    
-</details>
-
-<details>
-    <summary>How do you describe HTTP?</summary>Game of Battleship
+    <summary></summary>Game of Battleship
 </details>
 
 <details>
