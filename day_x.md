@@ -9,3 +9,8 @@ As a group, we identify some broad pain points shared by all markets:
 ## Action Items
 - Garnet Collaboration Guidelines
 - GA-WDI-ORGS Collaboration Guidelines
+- Monthly Hangouts
+- Another Summit
+- Fundamentals 3.0
+- Future Baseline?
+- Studies and Diagnostics
