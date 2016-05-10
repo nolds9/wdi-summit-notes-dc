@@ -3,6 +3,7 @@
 
 Day 02 and 03 gave instructors a chance to share best practices.
 
+# Presentation
 ## Santa Monica
 Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics included:
 
@@ -27,7 +28,7 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
 Brian Hague and Sean Shannon spoke about ES6 aka ES2015. There was no resolution but it seemed that most people think it's a good idea to introduce as a special topic in support of something like React.js. Special tooling may be necessary due to lack of cross-browser support. React is going to have some transpiling anyway so why not do ES6? Suggested build tools:  Babel, webpack, Gulp
 
 ## Remote
-Adi Hanash, Matt Huntington and Gordon ____ gave a great presentation on the remote curriculum. They started with red flags and had a failed attempt at a live demo using Cloud9. Despite the technical challenges, we were all impressed that this is going to be cool.
+Adi Hanash, Matt Huntington and Gordon gave a great presentation on the remote curriculum. They started with red flags and had a failed attempt at a live demo using Cloud9. Despite the technical challenges, we were all impressed that this is going to be cool.
 
 ## New York
 Jason Seminara spoke about React.js in WDI. Again, there was no resolution, but we think it would be similar to the ES6/2015 question. Most people think it's a good idea to introduce as a special topic.
