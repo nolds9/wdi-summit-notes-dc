@@ -1,8 +1,7 @@
 # Day 02 - Tuesday
 
 
-Day 02 and 03 gave instructors a chance to share best practices.
-
+Day 02 and 03 gave instructors a chance to share best practices
 
 
 # Presentation
