@@ -13,7 +13,7 @@ Phil Lamplugh gave a presentation on Teaching and Classroom Management, topics i
 
 **Think**:
 - What is your go-to variable for an array?
-> a closet
+> closet
 - How do you explain function parameters?
  > woodchipper, placeholders, quiznos toaster
 - How do you describe HTTP?
