@@ -1,4 +1,4 @@
-# Future is Bright
+# The Future is Bright
 ### Day 02 - Tuesday
 
 
